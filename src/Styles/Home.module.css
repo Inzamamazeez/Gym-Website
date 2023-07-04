@@ -1,0 +1,10 @@
+.root {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    max-height: fit-content;
+    background-image: url("https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
